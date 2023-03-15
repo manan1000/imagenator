@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 360 360" version="1.0">
+  <g id="layer1">
+    <path id="path3072" transform="matrix(0 4.9706 -4.9706 0 552.79 -596.47)" d="m120 60v30h30z"/>
+    <path id="path3074" d="m120 60v30h30z" fill="#00f" transform="matrix(-3.5147 3.5147 -3.5147 -3.5147 992.65 -105.44)"/>
+    <path id="path3076" d="m120 60v30h30z" fill="#0f0" transform="matrix(-4.9706 0 0 -4.9706 956.47 552.79)"/>
+    <path id="path3100" d="m120 60v30h30z" fill="#f00" transform="matrix(-3.5147 -3.5147 3.5147 -3.5147 465.44 992.65)"/>
+    <path id="path3102" d="m120 60v30h30z" fill="#fff" transform="matrix(0 -4.9706 4.9706 0 -192.79 956.47)"/>
+    <path id="path3104" d="m120 60v30h30z" fill="#ff0" transform="matrix(3.5147 -3.5147 3.5147 3.5147 -632.65 465.44)"/>
+    <path id="path3106" d="m120 60v30h30z" fill="#f0f" transform="matrix(4.9706 0 0 4.9706 -596.47 -192.79)"/>
+    <path id="path3108" d="m120 60v30h30z" fill="#0ff" transform="matrix(3.5147 3.5147 -3.5147 3.5147 -105.44 -632.65)"/>
+    <path id="path3193" stroke="#000" stroke-width="1px" fill="none" d="m210.88 254.56 43.675-43.675v-61.766l-43.675-43.675h-61.766l-43.675 43.675-0.00003 61.766 43.675 43.675z"/>
+    <path id="path3195" stroke="#000" stroke-width="1px" fill="none" d="m105.44 360h149.12l105.44-105.44v-149.12l-105.44-105.44h-149.12l-105.44 105.44v149.12z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>colorful octagon</dc:title>
+        <dc:date>2011-02-06T19:04:50</dc:date>
+        <dc:description>Supreme 8 colors!</dc:description>
+        <dc:source>http://openclipart.org/detail/117235/colorful-octagon-by-10binary</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>10binary</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>colorful</rdf:li>
+            <rdf:li>octagon</rdf:li>
+            <rdf:li>triangles</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
