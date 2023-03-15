@@ -4,6 +4,7 @@ import cors from "cors";
 import connectDB from "./mongodb/connect.js";
 import postRoutes from "./routes/postRoutes.js";
 import dalleRoutes from "./routes/dalleRoutes.js";
+const PORT = process.env.PORT || 3000;
 
 dotenv.config();
 
@@ -23,7 +24,7 @@ const startServer = async () => {
 
     try{
         connectDB(process.env.MONGODB_URL)
-        app.listen(10000,() => console.log("Listening on port 8000!"))
+        app.listen(PORT,() => console.log(`listening on port: ${PORT}...`));
     }catch(err){
         console.log(err);
     }
