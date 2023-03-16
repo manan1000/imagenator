@@ -1,4 +1,4 @@
-# imagenator
+# imagenator Link - https://www.imagenator.me
 
 An AI image sharing platform where you can create your own AI generated image.
 Just click on create and enter a prompt to generate an image.
