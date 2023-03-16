@@ -1,4 +1,4 @@
-# imagenator Link - https://www.imagenator.me
+# imagenator
 
 ## Link - https://www.imagenator.me
 
